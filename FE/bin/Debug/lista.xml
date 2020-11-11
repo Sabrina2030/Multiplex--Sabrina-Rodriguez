@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Lista>
+    <Numero_x0020_Abonado>44</Numero_x0020_Abonado>
+    <Nombre_x0020_Abonado>Sabrina</Nombre_x0020_Abonado>
+    <Direccion>la tablada 2036</Direccion>
+    <Telefono>4567890</Telefono>
+    <Motivo_x0020_de_x0020_contacto>Consulta</Motivo_x0020_de_x0020_contacto>
+    <Detalle>Consulta por planes</Detalle>
+    <Estado>En proceso</Estado>
+  </Lista>
+</DocumentElement>

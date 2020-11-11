@@ -1,0 +1,12 @@
+C:\Users\Sabrina\source\repos\Registro Multiplex\BA\bin\Debug\BA.dll
+C:\Users\Sabrina\source\repos\Registro Multiplex\BA\bin\Debug\BA.pdb
+C:\Users\Sabrina\source\repos\Registro Multiplex\BA\obj\Debug\BA.csprojAssemblyReference.cache
+C:\Users\Sabrina\source\repos\Registro Multiplex\BA\obj\Debug\BA.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\source\repos\Registro Multiplex\BA\obj\Debug\BA.dll
+C:\Users\Sabrina\source\repos\Registro Multiplex\BA\obj\Debug\BA.pdb
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\BA\bin\Debug\BA.dll
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\BA\bin\Debug\BA.pdb
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\BA\obj\Debug\BA.csprojAssemblyReference.cache
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\BA\obj\Debug\BA.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\BA\obj\Debug\BA.dll
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\BA\obj\Debug\BA.pdb

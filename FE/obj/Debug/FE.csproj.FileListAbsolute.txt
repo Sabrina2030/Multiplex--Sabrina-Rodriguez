@@ -1,0 +1,32 @@
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\bin\Debug\FE.exe.config
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\bin\Debug\FE.exe
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\bin\Debug\FE.pdb
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.csprojAssemblyReference.cache
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.frmenu.resources
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.Properties.Resources.resources
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.csproj.GenerateResource.cache
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.exe
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.pdb
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.frmAbonados.resources
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.frmReclamos.resources
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.frmGastos.resources
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\bin\Debug\BA.dll
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\bin\Debug\BA.pdb
+C:\Users\Sabrina\source\repos\Registro Multiplex\FE\obj\Debug\FE.csproj.CopyComplete
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\bin\Debug\FE.exe.config
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\bin\Debug\FE.exe
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\bin\Debug\FE.pdb
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\bin\Debug\BA.dll
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\bin\Debug\BA.pdb
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.csprojAssemblyReference.cache
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.frmAbonados.resources
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.frmReclamos.resources
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.frmGastos.resources
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.Properties.Resources.resources
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.csproj.GenerateResource.cache
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.csproj.CopyComplete
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.exe
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.pdb
+C:\Users\Sabrina\Repositorios Programas\Registro Multiplex\FE\obj\Debug\FE.frmenu.resources
